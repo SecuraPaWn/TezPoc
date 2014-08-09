@@ -1,0 +1,2 @@
+individual_id0	address0	27	M	7	48	M	1	0	1	1	1	0
+individual_id1	address1	89	M	3	83	S	1	1	0	0	1	0

@@ -1,0 +1,2 @@
+imsi0	individual_id0	poi0	201401011200
+imsi1	individual_id1	poi0	201401011200

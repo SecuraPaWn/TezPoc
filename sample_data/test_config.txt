@@ -1,0 +1,6 @@
+/Users/bdcoe/spark-poc/src/test/resources/sample_data/one_person_demog.txt /Users/bdcoe/spark-poc/src/test/resources/sample_data/one_ab_out.txt
+/Users/bdcoe/spark-poc/src/test/resources/sample_data/one_person_demog.txt /Users/bdcoe/spark-poc/src/test/resources/sample_data/one_person_500_billboards_500_events.txt
+/Users/bdcoe/spark-poc/src/test/resources/sample_data/one_person_demog.txt /Users/bdcoe/spark-poc/src/test/resources/sample_data/one_person_one_billboard_500_events.txt
+/Users/bdcoe/spark-poc/src/test/resources/sample_data/two_people_same_demog.txt /Users/bdcoe/spark-poc/src/test/resources/sample_data/two_people_same_poi.txt
+/Users/bdcoe/spark-poc/src/test/resources/sample_data/two_people_different_demog.txt /Users/bdcoe/spark-poc/src/test/resources/sample_data/two_people_same_poi.txt
+/Users/bdcoe/spark-poc/src/test/resources/sample_data/one_person_demog.txt /Users/bdcoe/spark-poc/src/test/resources/sample_data/random_ab_events_750.txt

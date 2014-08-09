@@ -1,0 +1,1 @@
+individual_id0	address0	72	M	6	30	S	1	1	0	0	0	1

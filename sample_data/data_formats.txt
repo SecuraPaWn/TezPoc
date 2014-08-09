@@ -1,0 +1,2 @@
+demog format: individ0\taddr0\t18\tM\t1\t01\tM\t0\t0\t0\t0\t0\t0
+abevent format: imsi0\tid0\tpoi0\tYYMMddHHmm
